@@ -63,6 +63,7 @@ Follwing resources have been used in maintaining this project:
 - [Remove.bg](https://www.remove.bg/upload) to remove the background of the images
 - [letsenhance](https://letsenhance.io/boost) to enhance the quality of the images
 - [Chatgpt](https://chat.openai.com/) to write some content for the website
+- [Google Drive](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3pTXzVVVXBxZkstUTNRTjZLc185VFQ3ZW5xZ3xBQ3Jtc0tuR3BuMURKSkVnT0NWakxodGtsVTF3NXplYWNNU1dKTEFMSTU2eXRFWXFQa3JSZDhTeUlPS0Z2eUdqRVRZQXU3dTN4RWh2dXp2cWtKQnN5Tm5FaWVyLWJLR05mVXNrbTQ4VEpaeUtoMy1BS05qWlpOTQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1qYSCFPH-Pv0TqBsYi9wbLhCvjz2dT9vH&v=YWrTO6XrOHk) contains the link for all the images that have been used to create this project
 
 
 <br><br>

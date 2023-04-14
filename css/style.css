@@ -221,3 +221,22 @@ h1, h5, h4{
     font-weight: 300;
 }
 
+
+/* ==============   SUBSCRIBE SECTION  =================== */
+
+.subscribe__section{
+    padding: 50px 0;
+    background-color: #212121;
+    color: #fff;
+}
+
+.subscribe__section form{
+    display: flex;
+}
+
+.subscribe__section button{
+    background-color: #f4511e;
+    border: none;
+    color: #fff; 
+    padding: 10px 20px;
+}

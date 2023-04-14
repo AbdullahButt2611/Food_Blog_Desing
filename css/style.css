@@ -14,20 +14,34 @@ body{
 
 /* ==============   UTILITIES  =================== */
 
-h1, h5{
+h1, h5, h4{
     margin: 0;
 }
 
-.btn__dark{
+.btn__dark,
+.btn__light{
     display: inline-block;
     background-color: #212121;
     color: #fff;
     text-decoration: none;
-    padding: 15px 25px;
+    padding: 10px 30px;
     border-radius: 100px;
     font-size: 14px;
     letter-spacing: 2px;
     transition: all 0.4s;
+}
+
+.btn__dark{
+    background-color: #212121;
+}
+
+.btn__light{
+    background-color: #f4511e;
+}
+
+.btn__light:hover{
+    background-color: #fff;
+    color: #f4511e;
 }
 
 .btn__dark:hover{
@@ -44,6 +58,26 @@ h1, h5{
     max-width: 100%;
     height: auto;
 }
+
+.bg__dark{
+    background-color: #212121;
+}
+
+.text__light{
+    color: #fff;
+}
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .no-gutters > .col,
+  .no-gutters > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
 
 
 /* ==============   NAVBAR  =================== */
@@ -154,6 +188,36 @@ h1, h5{
 /* ==============   ABOUT SECTION  =================== */
 
 .about__section{
-    padding: 70px 0;
+    padding: 50px 0;
     background-color: #f4511e;
+    color: #fff;
 }
+
+.about__section h4{
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.about__section p{
+    line-height: 36px;
+    font-weight: 200;
+}
+
+
+
+/* ==============   EXTRA SECTION  =================== */
+
+.extra__section{
+    padding: 70px 0;
+}
+
+.extra__section h4{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.extra__section p{
+    line-height: 26px;
+    font-weight: 300;
+}
+
